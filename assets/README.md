@@ -13,4 +13,6 @@ Leider funktioniert die overlay Funktionalität nicht mehr. Es ware recht hübsc
 ## Todos
 
 - [ ] Veröffentliche auf pratersch.de im Archiv
+- [ ] Link My Story
 - [ ] Fix the overlay
+- [ ] Veröffentliche die zwei Reden Videos auf Youtube
