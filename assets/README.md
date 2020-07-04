@@ -14,5 +14,6 @@ Leider funktioniert die overlay Funktionalität nicht mehr. Es ware recht hübsc
 
 - [ ] Veröffentliche auf pratersch.de im Archiv
 - [ ] Link My Story
+- [x] Switch of overlay and change Banner.
 - [ ] Fix the overlay
 - [ ] Veröffentliche die zwei Reden Videos auf Youtube
